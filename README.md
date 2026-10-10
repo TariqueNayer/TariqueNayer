@@ -1,4 +1,4 @@
-<h1>Hi, I'm Tarique Nayer Faraz 👋</h1>
+<h1>Hi, I'm Tarique 👋</h1>
 <p >Backend developer building APIs with Python, Django and Django REST Framework.</p>
 - 💼 Open to: entry-level backend roles and freelance projects
 
